@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"C:/Users/MAwosemo/Documents/Engineering3637/devopspipeline1/Day5/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/MAwosemo/Documents/Engineering3637/devopspipeline1/Day5/starter-code","disabled":false,"__vagrantfile":true}}}
